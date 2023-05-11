@@ -61,7 +61,7 @@ function App() {
           <Form>
             <Input name="deposit" label="Deposito inicial" />
             <Input name="contribution" label="Contribucion anual" />
-            <Input name="years" label="Years" />
+            <Input name="years" label="Yearrs" />
             <Input name="rate" label="Interes estimado" />
             <Button type="submit">Calcular</Button>
           </Form>
